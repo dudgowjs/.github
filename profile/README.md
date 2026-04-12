@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=250&color=198cff&text=windDarkTaily&reversal=false&fontSize=70&fontAlignY=50&fontColor=fff&desc=web/app/bash%20devs&descAlignY=64&descSize=30&stroke=000&textBg=false&fontAlign=49&section=header&strokeWidth=1&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=120&color=198cff&text=dzzdrzrx&reversal=false&fontSize=70&fontAlignY=50&fontColor=fff&desc=web/app%20devs&descAlignY=90&descSize=30&stroke=000&textBg=false&fontAlign=49&section=header&strokeWidth=1&animation=scaleIn)
 <hr>
 
 - 📫 How to reach me
