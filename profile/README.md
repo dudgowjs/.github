@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=120&color=198cff&text=windDarkTaily&reversal=false&fontSize=70&fontAlignY=50&fontColor=fff&desc=web/app%20devs&descAlignY=90&descSize=30&stroke=000&textBg=false&fontAlign=49&section=header&strokeWidth=1&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=120&color=198cff&text=dudgowjs&reversal=false&fontSize=60&fontAlignY=40&fontColor=fff&desc=website%20devs&descAlignY=80&descSize=30&stroke=000&textBg=false&fontAlign=49&section=header&strokeWidth=1&animation=scaleIn)
 <hr>
 
 - 📫 How to reach me
@@ -18,12 +18,6 @@
   <img src="https://img.shields.io/badge/materialdesign-6750A4?style=flat-square&logo=materialdesign&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/kodular-4527A0?style=flat-square&logo=kodular&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
 
 </p>
