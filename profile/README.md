@@ -1,4 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=120&color=198cff&text=dudgowjs&reversal=false&fontSize=60&fontAlignY=40&fontColor=fff&desc=website%20devs&descAlignY=80&descSize=30&stroke=000&textBg=false&fontAlign=49&section=header&strokeWidth=1&animation=scaleIn)
+ <p align="center"> 
+<a href="https://www.youtube.com/@dudgowjs">Youtube</a> / <a href="https://dudgowjs.github.io">website</a> / <a href="emailto:wjsdudgo11313@gmail.com">email</a>
+</p>
+
+![dudgowjs's GitHub Stats](https://readme-stats-github.pages.dev/api?username=dudgowjs&theme=dark)
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=dudgowjs&theme=dark)
+
 <hr>
 
 - 📫 How to reach me
